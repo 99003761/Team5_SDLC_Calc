@@ -10,6 +10,6 @@
 
 ![Matrices_activity](https://user-images.githubusercontent.com/78851798/107767612-38f58c80-6d5b-11eb-9ccd-304e7b67c9df.jpg)
 
-**ACTIVITY DIAGRAM FOR TRIGNOMETRIC**
+**ACTIVITY DIAGRAM for HLR**
 
 ![HLR_Activity](https://user-images.githubusercontent.com/78853987/107772306-16b33d00-6d62-11eb-9fab-5c751ac7cbaa.png)
