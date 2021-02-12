@@ -9,3 +9,5 @@
 
 
 ![Matrices_Package](https://user-images.githubusercontent.com/78851798/107767563-1a8f9100-6d5b-11eb-9395-bb8aefc68b94.jpg)
+
+**CLASS DIAGRAM FOR CONVERSION**
