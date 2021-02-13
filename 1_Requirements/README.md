@@ -16,7 +16,8 @@ All basic operations
 Double Precision
 Trigonometric operations
 Matrix Operations
-**Weakness**
+
+ **Weakness**
 
 •	Limited Operations
 •	Memory Wastage
