@@ -24,9 +24,11 @@
 •	Memory Wastage
 
  **Opportunities**
+
 •	It can be expanded by adding additional features like Inverse Trigonometric operations, Equations etc.
 
   **Threats**
+
 • There are other programmable calculators which may affect our product marketing.
  
 # **4W1H**
