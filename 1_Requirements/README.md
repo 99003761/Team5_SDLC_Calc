@@ -10,23 +10,23 @@
 
 # **SWOT- Strengths, and Weakness, Opportunities Threats**
 
-| **Strengths**| **Weakness**|
-| --- | --- |
-|User Friendly
+ **Strengths** 
+User Friendly
 All basic operations
 Double Precision
 Trigonometric operations
-Matrix Operations| Limited Operations
-                   Memory Wastage|
+Matrix Operations
+**Weakness**
 
+•	Limited Operations
+•	Memory Wastage
+
+ **Opportunities**
+•	It can be expanded by adding additional features like Inverse Trigonometric operations, Equations etc.
+
+  **Threats**
+• There are other programmable calculators which may affect our product marketing.
  
- |
-| --- | --- |
-| **Opportunities**
-- It can be expanded by adding additional features like Inverse Trigonometric operations, Equations etc.
- | **Threats**
-- There are other programmable calculators which may affect our product marketing.
- |
 # **4W1H**
 
 **What** : Basic Calculator.
