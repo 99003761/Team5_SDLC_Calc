@@ -12,11 +12,13 @@
 
 | **Strengths**| **Weakness**|
 | --- | --- |
-|User Friendly|Limited Operations|
-|All basic operations|Memory Wastage|
-|Double Precision|
-|Trigonometric operations|
-|Matrix Operations|
+|User Friendly
+All basic operations
+Double Precision
+Trigonometric operations
+Matrix Operations| Limited Operations
+                   Memory Wastage|
+
  
  |
 | --- | --- |
