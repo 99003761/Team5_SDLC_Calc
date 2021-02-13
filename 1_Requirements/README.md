@@ -26,9 +26,6 @@
  | **Threats**
 - There are other programmable calculators which may affect our product marketing.
  |
-
-s
-
 **4W1H**
 
 **What** : Basic Calculator.
