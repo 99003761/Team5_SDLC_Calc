@@ -13,9 +13,13 @@
  **Strengths** 
 
 • User Friendly
+
 • All basic operations
+
 • Double Precision
+
 •Trigonometric operations
+
 •Matrix Operations
 
  **Weakness**
