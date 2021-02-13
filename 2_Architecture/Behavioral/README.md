@@ -19,3 +19,6 @@
 
 ![B_LLR_Trigno](https://user-images.githubusercontent.com/78853987/107772634-7ad60100-6d62-11eb-97a0-293668ebe1de.png)
 
+**USE CASE DIAGRAM FOR BASIC OPERATIOJNS**
+
+![llr-basic-use case](https://user-images.githubusercontent.com/78848721/107846328-e1adf580-6e08-11eb-8fd6-45d8e31b5499.png)
