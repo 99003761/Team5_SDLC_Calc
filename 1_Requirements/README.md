@@ -8,17 +8,16 @@
 - Basic Matrix Operations are also available.
 - It has double precision.
 
-**SWOT- Strengths, and Weakness, Opportunities Threats**
+# **SWOT- Strengths, and Weakness, Opportunities Threats**
 
-| **Strengths**
-- User Friendly
-- All basic operations
-- Double Precision
-- Trigonometric operations
-- Matrix Operations
- | **Weakness**
-- Limited Operations
-- Memory Wastage
+| **Strengths**| **Weakness**|
+| --- | --- |
+|User Friendly|Limited Operations|
+|All basic operations|Memory Wastage|
+|Double Precision|
+|Trigonometric operations|
+|Matrix Operations|
+ 
  |
 | --- | --- |
 | **Opportunities**
@@ -26,7 +25,7 @@
  | **Threats**
 - There are other programmable calculators which may affect our product marketing.
  |
-**4W1H**
+# **4W1H**
 
 **What** : Basic Calculator.
 
