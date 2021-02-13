@@ -43,7 +43,7 @@
 
 **How** : Operates by using User Inputs.
 
-**High Level Requirements**
+# **High Level Requirements**
 
 | High level Requirement | Description |
 | --- | --- |
@@ -52,7 +52,7 @@
 | HLR3 | Matrix Operations |
 | HLR4 | Conversions |
 
-**Low-Level Requirements**
+# **Low-Level Requirements**
 
 | Low Level Requirement | Description |
 | --- | --- |
