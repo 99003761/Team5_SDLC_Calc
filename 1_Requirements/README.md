@@ -11,11 +11,11 @@
 # **SWOT- Strengths, and Weakness, Opportunities Threats**
 
  **Strengths** 
-User Friendly
-All basic operations
-Double Precision
-Trigonometric operations
-Matrix Operations
+• User Friendly
+• All basic operations
+• Double Precision
+•Trigonometric operations
+ •Matrix Operations
 
  **Weakness**
 
