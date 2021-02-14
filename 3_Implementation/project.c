@@ -15,39 +15,25 @@ int main(int argc, char *argv[])
 void calculator_menu(void)
 {
     printf("\nAvailable Operations\n");
-    printf("\n1.matrix operation \n2. trigno \n3. Exit");
+    printf("\n1.\basic operation\n2.matrix operation \n3. trigonometric operations\n4.Conversion \n3. ");
     printf("\n\tEnter your choice\n");
     scanf("%d", &calculator_operation);
-
-    if(3 == calculator_operation)
-    {
-        printf("\nThank you. Exiting the Application\n");
-        exit(0);
-    }
-
         switch(calculator_operation)
     {
         case 1:
-            printf("\n\t%d + %d = %d\nEnter to continue", 
-            calculator_operand1, 
-            calculator_operand2,
-            add(calculator_operand1, calculator_operand2));
-            
-            // __fpurge(stdin);
-            getchar();
+            Basic_operations();
             break;
-        case SUBTRACT:
-            printf("\n\t%d - %d = %d\nEnter to continue", 
-            calculator_operand1, 
-            calculator_operand2,
-            subtract(calculator_operand1, calculator_operand2));
-            
-            // __fpurge(stdin);
-            getchar();
+        case 2:
+            Matrix_operations();
             break;
-        
         case 3:
-            exit(0);
+            Trigonometric_operation();
+            break;
+        case 4:
+              Conversion();
+            break;
+        default:
+            printf("\nIncorrect option! Please choose a number 1-4.");
             break;
     }
 }
