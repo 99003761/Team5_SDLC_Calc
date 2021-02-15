@@ -23,6 +23,8 @@
 
 ![llr-basic-object](https://user-images.githubusercontent.com/78848721/107846341-0609d200-6e09-11eb-9fc0-6aaf1716234e.png)
 
+
+
 **CLASS DIAGRAM FOR HIGH LEVEL REQUIREMENTS**
 
 
