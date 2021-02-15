@@ -1,12 +1,7 @@
-#include <stdio.h>
-//#include<math.h>
-//#include<stdlib.h>
+#include"Basic.h"
+
 #define KEY "Enter the calculator Operation you want to do:"
-void addition();
-void subtraction();
-void multiplication();
-void division();
-void square();
+
 //start main function
 int main()
 {
