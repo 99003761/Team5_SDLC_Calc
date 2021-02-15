@@ -1,4 +1,4 @@
-# **Introduction **
+# **Introduction**
 
 It is a basic calculator that will allow users to perform operations in mathematics( Arithimetic, Trigonometric, Matrices, Conversion etc) b However, the input has to be provided by user. The input values can be from any integer to even a number with decimals. Moreover, this calculator is smart enough to operate all the basic operations.
 # **Features**
