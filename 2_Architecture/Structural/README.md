@@ -19,6 +19,8 @@
 ![S_LLR_Trig](https://user-images.githubusercontent.com/78853987/107771101-48c39f80-6d60-11eb-931e-83c0dc426702.png)
 
 **OBJECT DIAGRAM FOR BASIC OPERATIONS**
+
+
 ![llr-basic-object](https://user-images.githubusercontent.com/78848721/107846341-0609d200-6e09-11eb-9fc0-6aaf1716234e.png)
 
 **CLASS DIAGRAM FOR HIGH LEVEL REQUIREMENTS**
