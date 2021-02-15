@@ -68,11 +68,10 @@ It is a basic calculator that will allow users to perform operations in mathemat
 | LLR4 | Division |
 | LLR5 | Sine, Cos, Tan |
 | LLR6 | Cosec, Sec, Cot |
-| LLR7 | Inverse Trigonometric |
-| LLR8 | Matrix Addition |
-| LLR9 | Matrix Subtraction |
-| LLR10 | Matrix Multiplication |
-| LLR11 | Base Decimal Conversion |
-| LLR12 | Unit Conversion |
-| LLR13 | Check for Real numbers |
+| LLR7 | Matrix Addition |
+| LLR8 | Matrix Subtraction |
+| LLR9 | Matrix Multiplication |
+| LLR10 | Base Decimal Conversion |
+| LLR11 | Unit Conversion |
+| LLR12 | Check for Real numbers |
 
