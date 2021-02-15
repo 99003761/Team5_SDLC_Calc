@@ -1,3 +1,5 @@
+Test Plan
+
 | TEST CASE ID | DESCRIPTION | EXPECTED INPUTPUT | EXPECTED OUTPUT |
 | --- | --- | --- | --- |
 | LLR01 | Check the number dived by zero | Given number is divided by zero | Error |
@@ -8,4 +10,3 @@
 | LLR06 | Check divided by smaller number | Given number is smaller | Greater than zero |
 | LLR07 | Check divided by negative number | Given number is negative | Negative number |
 
-Test Plan
